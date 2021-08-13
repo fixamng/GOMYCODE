@@ -1,1 +1,32 @@
+html {
+  background-color: black;
+}
 
+nav a {
+  display: inline;
+  color: gray;
+}
+
+h2 {
+  color: gray;
+}
+
+.socials a {
+  color: honeydew;
+}
+
+form label {
+  color: gray;
+}
+
+footer p {
+  color: gray;
+}
+
+#email {
+  color: gray;
+}
+
+#top {
+  color: gray;
+}
